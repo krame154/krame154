@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi  👋 
 
-Hi there, I’m Kayla.
+Hi there, I’m Kayla. 👩🏽‍💻
 
-Data Science
-Michigan State University — Lyman Briggs College
+4th year Data Science student @ The 
+💚 Michigan State University — Lyman Briggs College  💚
 
 About Me :)
 
