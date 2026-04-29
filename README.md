@@ -2,7 +2,7 @@
 
 Hi there, I’m Kayla.
 
-Data Science Student
+Data Science
 Michigan State University — Lyman Briggs College
 
 About Me :)
